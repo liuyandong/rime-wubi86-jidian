@@ -5,6 +5,8 @@ schema:
   schema_id: wubi86_jidian_pinyin
   name: "拼音混输"
   version: "0.9"
+  icon: "wubi86_jidian_pinyin.ico"           # string 方案图标，格式： .ico
+  ascii_icon:                         # string
   author:
     - 发明人 王永民先生
   description: |
